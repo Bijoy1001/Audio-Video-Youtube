@@ -1,0 +1,28 @@
+*{
+    background-color: blue;
+    color: white;
+}
+.h1{
+    text-align: center;
+   margin-bottom: 5%;
+}
+.audio{
+    background-color: black;
+    padding: 15%;
+    border: 10px solid red;
+    margin: 5px 500px;
+  
+}
+.video{
+    background-color: black;
+    padding: 10%;
+    border: 10px solid red;
+    margin: 5px 500px;
+}
+
+.youtube{
+    background-color: black;
+    padding: 10%;
+    border: 10px solid red;
+    margin: 5px 500px;
+}
